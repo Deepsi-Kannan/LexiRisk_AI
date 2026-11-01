@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large CUAD training data - deployment-ku thevai illa
+data/raw/cuad/
+data/processed/
+
+# Temporary/generated analysis files
+outputs/sample_contract_predictions.csv
+outputs/sample_contract_full_analysis.csv
+
+data/raw/cuad_data.zip
+outputs/ui_previews/

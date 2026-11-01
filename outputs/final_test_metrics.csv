@@ -1,0 +1,2 @@
+model,decision_threshold,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1,weighted_f1,subset_accuracy,hamming_loss,avg_predicted_labels,test_samples,test_contracts
+TF-IDF + One-vs-Rest Linear SVM,0.0,0.8235519754507096,0.8123344684071131,0.8179047619047619,0.7513745369807224,0.6664054829551206,0.6882149472143122,0.811781954602896,0.6979949874686717,0.009739796646086762,1.0889724310776943,2394,102
